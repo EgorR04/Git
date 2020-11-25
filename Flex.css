@@ -1,0 +1,33 @@
+.Flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:  1000px;
+    height: 700px;
+    border: 5px solid black;
+}
+.Flex1{
+    height: 100px;
+    width: 500px;
+    background-color: red;
+    border: 1px solid black;
+}
+.Flex2{
+    height: 100px;
+    width: 500px;
+    background-color: darkblue;
+    border: 1px solid black;
+}
+.Flex3{
+    height: 100px;
+    width: 500px;
+    background-color: darkgreen;
+    border: 1px solid black;
+}
+.Flex4{
+    height: 100px;
+    width: 500px;
+    background-color: rebeccapurple;
+    border: 1px solid black;
+}
