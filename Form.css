@@ -1,0 +1,18 @@
+button{
+    position: relative;
+    left: 300px;
+    top: -33px;
+    height: 32px;
+}
+.c1{
+    position: relative;
+    left: 55px;
+
+}
+img{
+    width: 50px;
+    height: 33px;
+    position: relative;
+    left: 10px;
+    top: -65px;
+}
